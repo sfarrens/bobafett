@@ -13,7 +13,7 @@ def add_int(x, y):
     y : int
         Second value
 
-    Retunrs
+    Returns
     -------
     int
         Result of addition
@@ -43,7 +43,7 @@ def add_float(x, y):
     y : float
         Second value
 
-    Retunrs
+    Returns
     -------
     float
         Result of addition
