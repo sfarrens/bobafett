@@ -1,0 +1,18 @@
+bobafett.example package
+========================
+
+Submodules
+----------
+
+.. toctree::
+
+   bobafett.example.hello
+   bobafett.example.math
+
+Module contents
+---------------
+
+.. automodule:: bobafett.example
+   :members:
+   :undoc-members:
+   :show-inheritance:

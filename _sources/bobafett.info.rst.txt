@@ -1,0 +1,7 @@
+bobafett.info module
+====================
+
+.. automodule:: bobafett.info
+   :members:
+   :undoc-members:
+   :show-inheritance:

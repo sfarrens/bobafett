@@ -1,0 +1,25 @@
+bobafett package
+================
+
+Subpackages
+-----------
+
+.. toctree::
+
+   bobafett.example
+   bobafett.tests
+
+Submodules
+----------
+
+.. toctree::
+
+   bobafett.info
+
+Module contents
+---------------
+
+.. automodule:: bobafett
+   :members:
+   :undoc-members:
+   :show-inheritance:

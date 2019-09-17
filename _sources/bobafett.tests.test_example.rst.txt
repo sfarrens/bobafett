@@ -1,0 +1,7 @@
+bobafett.tests.test\_example module
+===================================
+
+.. automodule:: bobafett.tests.test_example
+   :members:
+   :undoc-members:
+   :show-inheritance:

@@ -1,0 +1,7 @@
+bobafett.example.hello module
+=============================
+
+.. automodule:: bobafett.example.hello
+   :members:
+   :undoc-members:
+   :show-inheritance:

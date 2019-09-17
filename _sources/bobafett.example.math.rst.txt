@@ -1,0 +1,7 @@
+bobafett.example.math module
+============================
+
+.. automodule:: bobafett.example.math
+   :members:
+   :undoc-members:
+   :show-inheritance:

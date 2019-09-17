@@ -1,0 +1,17 @@
+bobafett.tests package
+======================
+
+Submodules
+----------
+
+.. toctree::
+
+   bobafett.tests.test_example
+
+Module contents
+---------------
+
+.. automodule:: bobafett.tests
+   :members:
+   :undoc-members:
+   :show-inheritance:
