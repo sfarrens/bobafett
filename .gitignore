@@ -9,6 +9,7 @@
 .pytest_cache/
 
 # Ignore installation
+*egg*
 .eggs/
 dist/
 build/
